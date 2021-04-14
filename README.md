@@ -33,9 +33,13 @@ h.	If you want to add other algorithm dll, you need to implement the interface �
 
 # Documentation and general explanation of the structure of the folders and main files in the project:
 The project designed by “MVVM” architect.  
-The View is the ‘MainWindow’ and he contain some of user controls:  
+
+The View is the ‘MainWindow’ and he contain some of user controls: 
+
 •	‘JoyStick’ - Showing the main controls of the plane.  
-•	‘Graph’ - show the graph of chosen features with his correlative feature graph and their line regression.  
+
+•	‘Graph’ - show the graph of chosen features with his correlative feature graph and their line regression.
+
 •	‘Player’ – Scroll bar to move whenever you want, along with additional buttons to control the flight display.  
 •	‘DataFlay’ - show data of the aircraft.  
 •	‘RunControl’ – the buttons that load the files.  
